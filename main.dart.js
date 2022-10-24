@@ -61207,7 +61207,7 @@ $S:0}
 A.ZR.prototype={
 hC(){var s=0,r=A.S(t.Yf),q,p=2,o,n,m,l,k,j,i,h,g
 var $async$hC=A.T(function(a,b){if(a===1){o=b
-s=p}while(true)switch(s){case 0:i=A.ani("https://www.hellobook.es/appplanesi/web",3e4,3e4)
+s=p}while(true)switch(s){case 0:i=A.ani("https://gitlab.fing.edu.uy/santiago.parodi/preguntas/-/raw/main",3e4,3e4)
 h=new A.RK($,new A.DF(A.a([],t.lC),new A.uw(),new A.uw(),new A.uw()),$,new A.RB(),!1)
 h.Hq$=i
 h.Hr$=new A.Q6(A.aE(t.Gf))
@@ -61216,7 +61216,7 @@ p=4
 k=A.aqb()
 k.a="GET"
 s=7
-return A.Z(J.an1(n,"/preguntas.json",null,null,k,null,t.z),$async$hC)
+return A.Z(J.an1(n,"/questions.json",null,null,k,null,t.z),$async$hC)
 case 7:m=b
 A.eG(m)
 l=t.a.a(m.a)
